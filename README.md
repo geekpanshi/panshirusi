@@ -10,7 +10,9 @@
 
 > 建了一个群，想邀请你加入的。
 >
-> 群内容汇总：[汇总链接](https://github.com/geekpanshi/panshirusi) https://github.com/geekpanshi/panshirusi；
+> 希望一起可以讨论，就算群消息是屏蔽的，偶尔看看群内容更新，说不定挺有收获。
+>
+> 群内容更新（截止 20190929 02:52）：[汇总链接](https://github.com/geekpanshi/panshirusi) https://github.com/geekpanshi/panshirusi；
 >
 > 这个群旨在帮助别人的同时，自己也能获得成长的。
 >
@@ -25,4 +27,4 @@
 >（友情提示：为了保护个人隐私，假如你的微信昵称是你本名的话，你可以考虑修改一下群昵称的，昵称无规则限制的。）
 >
 > 加群二维码
->> ![群二维码](/配图/001-磐石如丝微信二维码.png)
+>> ![群二维码](/配图/README/001-磐石如丝微信二维码.png)
