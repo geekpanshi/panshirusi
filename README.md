@@ -12,7 +12,7 @@
 >
 > 希望一起可以讨论，就算群消息是屏蔽的，偶尔看看群内容更新，说不定挺有收获。
 >
-> 群内容更新（截止 20190929 02:52）：[汇总链接](https://github.com/geekpanshi/panshirusi) https://github.com/geekpanshi/panshirusi；
+> 群内容更新（截止 20190929 02:52）：[汇总链接](https://github.com/geekpanshi/panshirusi) https://github.com/geekpanshi/panshirusi;
 >
 > 这个群旨在帮助别人的同时，自己也能获得成长的。
 >
