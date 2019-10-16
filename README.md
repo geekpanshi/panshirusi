@@ -39,7 +39,7 @@
 #### 加群方式
 > 加群二维码
 >>
->> <img src="/配图/README/001-磐石如丝微信二维码.png" width="180" height="180" align=center>加群二维码</img>
+>> <img src="/配图/README/001-磐石如丝微信二维码.png" width="180" height="180" align=center></img>
 
 #### 新人入群群消息
 > 友情提示，新进群的朋友们：
@@ -74,4 +74,4 @@
 >>>
 >>> 投票情况
 >>>
->>> <img src="/配图/README/001-001.jpg" width="360" height="600" align=center>投票情况</img>
+>>> <img src="/配图/README/001-001.jpg" width="360" height="600" align=center></img>
