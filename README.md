@@ -75,3 +75,5 @@
 >>> 投票情况
 >>>
 >>> <img src="/配图/README/001-001.jpg" width="360" height="600" align=center></img>
+>
+> 4. 20191021 - 群文件分享资料整理从 百度网盘 迁移到 Github，[链接](https://github.com/geekpanshi/panshirusi-share?files=1)。
